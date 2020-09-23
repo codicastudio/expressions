@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/expressions",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/expressions",
+    "name": "codica-studio/expressions",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/expressions",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +14,7 @@
     ],
 
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "illuminate/database": "^8.0",
         "illuminate/support": "^8.0"
     },
